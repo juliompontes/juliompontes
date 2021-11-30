@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
 ## Hello, my name is Julio Machado Pontes and I glad to see you here!
@@ -19,16 +19,16 @@
 ## What you should know about me  
 <table><tr><td valign="top" width="50%">
 
--   
+-  solid professional experience as data analyst (4+ years), including data team leadership
   
 
--   
+-  development of data jobs with python, SQL and business intelligence tools (Metabase, Tableau, Google Data Studio, Power BI...)
   
 
--  
+-  experience with design, creation and maintenance of data pipelines and related technologies (databases, cloud - mainly AWS -, spark and others)
   
 
--    
+-  interested in challenges related to building and maintaining a large-scale data environment
 
 
 </td></tr></table>  
