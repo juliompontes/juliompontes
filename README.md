@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-## Hello, my name is Julio Machado Pontes and I glad to see you here!
+## Olá, meu nome é Julio Pontes. Seja bem vindo ao meu perfil do Github!
 
 <a href="https://github.com/juliompontes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -11,24 +11,24 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 
-###  
+### Aqui você encontrará alguns dos meus trabalhos com dados, relacionados principalmente com as áreas de análise e engenharia de dados. 
 
 <br/>  
 
 
-## What you should know about me  
+## O que você deveria saber sobre mim  
 <table><tr><td valign="top" width="50%">
 
--  solid professional experience as data analyst (4+ years), including data team leadership
+-  sólida experiência profissional na área de dados (4+ anos), trabalhando com análise e engenharia de dados, além de liderança de time de dados
   
 
--  development of data jobs with python, SQL and business intelligence tools (Metabase, Tableau, Google Data Studio, Power BI...)
+-  experiência e conhecimento em python, SQL, cloud (principalmente AWS) e ferramentas de business intelligence (Metabase, Power BI, Google Data Studio...) 
   
 
--  experience with design, creation and maintenance of data pipelines and related technologies (databases, cloud - mainly AWS -, spark and others)
+-  experiência e conhecimento em tecnologias de processamento (Spark, Hadoop) e armazenamento de dados (bancos de dados relacionais, NoSQL, cloud storage)
   
 
--  interested in challenges related to building and maintaining a large-scale data environment
+-  interessado em desafios relacionados à construção e manutenção de uma estrutura de dados moderna e de larga escala
 
 
 </td></tr></table>  
@@ -37,7 +37,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Tecnologias 
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" />  
